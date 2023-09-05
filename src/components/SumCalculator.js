@@ -33,7 +33,7 @@ function SumCalculator() {
         placeholder="Enter a number"
         onChange={handleInputChange}
       />
-      <h2>Sum: {sum}</h2>
+      <p >Sum: {sum}</p>
     </div>
   );
 }
